@@ -1,5 +1,5 @@
 # MatrizDeDispersion
 Proyecto 1 / Visualización de Información
 
-Boris Beck
+Boris Beck -
 Daniel Herrera
